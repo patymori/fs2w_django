@@ -1,2 +1,3 @@
-# fs2w_django
+# FS2W - Oficina de Django
+
 Material para a oficina de Django
