@@ -12,3 +12,6 @@ Material para a oficina de Django
 
   `pip install django`
 
+## Steps do template da lista de Posts do nosso blog
+
+Os arquivos `blog/templates/blog/post_list_*.html` estão organizados dessa forma pois cada um deles é um dos passos do Workshop de Django. Para utilizá-los, basta renomear um dos arquivos para `post_list.html`.
